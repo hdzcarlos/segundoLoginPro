@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="segundoLoginPro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/segundoLoginPro_jar</output-path>
+    <root id="archive" name="segundoLoginPro.jar">
+      <element id="module-output" name="segundoLoginPro" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jstl/jstl/1.2/jstl-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.30/mysql-connector-java-5.1.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
